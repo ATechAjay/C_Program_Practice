@@ -1,0 +1,6 @@
+Static variable:- Static variable are declared by writting keyword
+"Static" in front of declaration. 
+If a Static variable is not initialized then it is automatically 
+initialized to 0.
+A Static variable is initialized only once and its value is retained
+between function calls.

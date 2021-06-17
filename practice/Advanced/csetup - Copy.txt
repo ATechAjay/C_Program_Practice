@@ -1,0 +1,6 @@
+1.Download mingw and paste it in your c drive not in x86 file.
+2.Download vs code in your computer.
+3.Then setup path in your computer>>this pc>>properties>>Advanced system setting>>
+environment variable>>system variable>>select path>>Edit>>New>>paste of the mingw file location>>ok>>ok
+4.open your terminal and type there "gcc --version" if you can see your mingw version then you have successfully
+setup c envrionment in your system
