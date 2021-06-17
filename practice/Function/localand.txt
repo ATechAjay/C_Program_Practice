@@ -1,0 +1,21 @@
+/*1. Local variable: Local variable defined within the body of the function
+This variable only called locally in the body of the function.
+like:
+    int func(int t)
+    {
+        int a;
+        -------
+        -------
+        -------
+    }
+Here a is a local variable.
+2. Global variable: This variable defined outside the body of the
+funcrtion are called global variable.
+All functions in the program can be access and modify the global 
+variable.
+Global variable is automatically initialized to 0 at the time of
+declaration.
+
+NOTE:- Whenever there is conflict between local and global variable, then local variable 
+gets higher precedence.
+*/

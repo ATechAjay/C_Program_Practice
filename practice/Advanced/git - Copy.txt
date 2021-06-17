@@ -1,0 +1,6 @@
+1. Tracked: When you add files through git add. then your files go into the tracked files. 
+Also git knows/tracked that files which is add by you.
+Commands:: git tracked done by "git add <file name>" commands.
+
+2. Untracked: After git init all files of your directory knows as untracked files.Or git does not know 
+about your file.
